@@ -54,6 +54,3 @@ The rest of the repositories here are university work in Java and C#.
 Reach me at muneebriaz19@gmail.com or on
 [LinkedIn](https://linkedin.com/in/muneeb-riaz-91a225154).
 
-
-- ⚡ Fun fact: ...
--->
